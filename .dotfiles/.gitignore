@@ -1,0 +1,27 @@
+# Cache
+**/__pycache__/
+**/*.pyc
+**/.cache/
+**/Cache/
+**/*.log
+
+# Secrets
+**/*secret*
+**/*token*
+**/*password*
+**/*credentials*
+**/.env
+
+# OS
+.DS_Store
+Thumbs.db
+
+# ZSH
+.zsh_history
+.zsh_sessions/
+
+# Editors
+.vscode/
+.idea/
+**/*.swp
+**/*.swo
